@@ -1,6 +1,6 @@
 # Repositório dos projetos feitos pelo #boraCodar
 
-Aqui vou deixar minhas versões dos códigos criados junto do projeto #boraCodar da @Rocketseat
+Aqui vou deixar os códigos criados no projeto #boraCodar da @Rocketseat que acho interessante para usar em projetos React
 
 ### Instruções de uso:
 
